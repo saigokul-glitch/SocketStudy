@@ -112,10 +112,11 @@ server_socket.close()
 ## output:
 ```
 client:
-client (2).png
+<img width="1293" height="114" alt="Screenshot 2026-01-28 115029" src="https://github.com/user-attachments/assets/bccfe35a-2820-465a-ac86-899da7f69939" />
+
 
 server:
-client.png
+<img width="1369" height="164" alt="Screenshot 2026-01-29 162014" src="https://github.com/user-attachments/assets/7a354b03-ff3a-4e79-986e-3c0f930681d5" />
 
 
 
